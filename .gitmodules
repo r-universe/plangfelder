@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dynamicTreeCut"]
 	path = dynamicTreeCut
 	url = https://github.com/cran/dynamicTreeCut
-	shallow = true
-	registered = true
 [submodule "flashClust"]
 	path = flashClust
 	url = https://github.com/cran/flashClust
-	shallow = true
-	registered = true
 [submodule "moduleColor"]
 	path = moduleColor
 	url = https://github.com/cran/moduleColor
-	shallow = true
-	registered = true
 [submodule "PropClust"]
 	path = PropClust
 	url = https://github.com/cran/PropClust
-	shallow = true
-	registered = true
 [submodule "randomGLM"]
 	path = randomGLM
 	url = https://github.com/cran/randomGLM
-	shallow = true
-	registered = true
 [submodule "WGCNA"]
 	path = WGCNA
 	url = https://github.com/cran/WGCNA
-	shallow = true
-	registered = true
