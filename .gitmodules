@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PropClust"]
+	path = PropClust
+	url = https://github.com/cran/PropClust
+[submodule "WGCNA"]
+	path = WGCNA
+	url = https://github.com/cran/WGCNA
 [submodule "dynamicTreeCut"]
 	path = dynamicTreeCut
 	url = https://github.com/cran/dynamicTreeCut
@@ -11,12 +17,6 @@
 [submodule "moduleColor"]
 	path = moduleColor
 	url = https://github.com/cran/moduleColor
-[submodule "PropClust"]
-	path = PropClust
-	url = https://github.com/cran/PropClust
 [submodule "randomGLM"]
 	path = randomGLM
 	url = https://github.com/cran/randomGLM
-[submodule "WGCNA"]
-	path = WGCNA
-	url = https://github.com/cran/WGCNA
